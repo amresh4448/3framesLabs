@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787507103202",
+    "project_id": "frameslab-e4450",
+    "storage_bucket": "frameslab-e4450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787507103202:android:4e4856cfae67e5d922a5bb",
+        "android_client_info": {
+          "package_name": "com.example.frame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQYE_bPVNLpCePg07UcrhqDDQKmDy2vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
